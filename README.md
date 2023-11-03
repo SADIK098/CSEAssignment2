@@ -1,2 +1,2 @@
 # CSEAssignment2
-CSE307 Assignment 2
+CSE309 Assignment 2
